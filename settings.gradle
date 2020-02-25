@@ -1,0 +1,3 @@
+rootProject.name='ViewChangeDetector'
+include ':app'
+include ':view-change-detector'
